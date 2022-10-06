@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{87569c50-cb99-48a3-831b-61e4d364fbdd}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GitHub/GDTA7-Project-Q3-2022/TheFirmaTheBetter/Assets/External/FMODBanks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{234f605f-9b74-44c3-ac97-dc8006441e01}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{8d43901d-6e40-49c6-8d65-d3c08df8d6c0}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{ab16d6d2-8366-4dc7-a79f-f03eaa188152}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{e75f06fa-5f05-4a13-a36e-33775bc118e7}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{c4543245-ada3-4b82-8d38-56e5e6af2d78}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{73a68edc-0004-4969-a131-814df9e57770}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{bcb554ad-d6b9-46ee-81c4-6223412b7787}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{650137bf-0401-483d-b95c-3952085d6c11}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{b626eb43-8b7e-4e6e-97d9-0d8300b63415}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{4d4f31b0-3c4d-4b6c-ab5d-caff606d6914}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c13105bf-905d-4d3b-aaff-56fd75784067}">
+		<property name="assetPath">
+			<value>Fuel_alarm_high_note.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5039002267573696</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bcb554ad-d6b9-46ee-81c4-6223412b7787}</destination>
+		</relationship>
+	</object>
+</objects>

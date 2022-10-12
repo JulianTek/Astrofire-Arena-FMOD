@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{87569c50-cb99-48a3-831b-61e4d364fbdd}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../Documents/GitHub/GDTA7-Project-Q3-2022/TheFirmaTheBetter/Assets/External/FMODBanks</value>
+			<value>../../Games/GDTA7-Project-Q3-2022/TheFirmaTheBetter/Assets/External/FMODBanks</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{234f605f-9b74-44c3-ac97-dc8006441e01}</destination>

@@ -318,10 +318,16 @@
 	</object>
 	<object class="CompressorEffect" id="{ffdadbb8-ea94-4f3f-a440-c41c1517993a}">
 		<property name="threshold">
-			<value>-41</value>
+			<value>-18</value>
 		</property>
 		<property name="ratio">
-			<value>3.60000014</value>
+			<value>8.80000019</value>
+		</property>
+		<property name="attackTime">
+			<value>8.40000057</value>
+		</property>
+		<property name="releaseTime">
+			<value>96</value>
 		</property>
 	</object>
 	<object class="AutomationCurve" id="{8d33d698-bb40-425a-b1b0-b2de39f42149}">

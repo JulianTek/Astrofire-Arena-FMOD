@@ -92,6 +92,9 @@
 		<property name="length">
 			<value>0.17603919070319191</value>
 		</property>
+		<property name="volume">
+			<value>-1</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{64eb0d90-b140-4cc1-8a4c-3959abb258cd}</destination>
 		</relationship>
@@ -126,7 +129,7 @@
 	<object class="MixerBusPanner" id="{d951392f-a484-43dc-a2ed-dd2722708033}" />
 	<object class="CompressorEffect" id="{e9b788a6-c4ac-434f-a422-5e17157b8bfc}">
 		<property name="threshold">
-			<value>-49</value>
+			<value>-30</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{114a3dfd-cd2e-47b5-a874-4034e6cb6fc7}" />

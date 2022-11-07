@@ -93,7 +93,7 @@
 			<value>1.068095238095238</value>
 		</property>
 		<property name="volume">
-			<value>6.5</value>
+			<value>8.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{612b2142-f969-49b6-b970-e9f849736b22}</destination>
@@ -141,10 +141,10 @@
 			<value>-11.5</value>
 		</property>
 		<property name="wetLevel">
-			<value>-10.5</value>
+			<value>-10</value>
 		</property>
 		<property name="dryLevel">
-			<value>-11</value>
+			<value>-8.5</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{36668beb-3093-4ebb-9c75-8ff5e8129cea}" />

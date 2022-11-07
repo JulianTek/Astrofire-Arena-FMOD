@@ -130,6 +130,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{1971a57c-c726-42ef-a10a-9e7211f7ec38}" />
 	<object class="PitchShifterEffect" id="{1b0e9281-623d-4a55-acdb-ed3dfbb3700f}">
+		<property name="pitch">
+			<value>0.799999952</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{666c7b4d-c91a-451e-9549-7b9a2d9f4896}</destination>
 		</relationship>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{74b98b26-e89f-49f2-a1e2-7420163b03b3}">
+		<property name="assetPath">
+			<value>EndJingle2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.5480725623582767</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bcb554ad-d6b9-46ee-81c4-6223412b7787}</destination>
+		</relationship>
+	</object>
+</objects>

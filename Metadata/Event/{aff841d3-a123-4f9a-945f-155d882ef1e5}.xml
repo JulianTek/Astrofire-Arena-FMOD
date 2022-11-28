@@ -137,7 +137,7 @@
 	<object class="MixerBusPanner" id="{befff31d-cbe8-40e0-a568-a11867b42434}" />
 	<object class="CompressorEffect" id="{1ab5cb8f-9fb4-4c65-a281-abaefd0f234c}">
 		<property name="threshold">
-			<value>-27</value>
+			<value>-37</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{d45c139d-2d3e-4e6d-a52a-b8e589c3dd41}" />

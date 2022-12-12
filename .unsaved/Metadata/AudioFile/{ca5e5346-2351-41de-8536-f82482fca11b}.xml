@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ca5e5346-2351-41de-8536-f82482fca11b}">
+		<property name="assetPath">
+			<value>KOTH150BPM.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>58.47501133786848</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bcb554ad-d6b9-46ee-81c4-6223412b7787}</destination>
+		</relationship>
+	</object>
+</objects>
